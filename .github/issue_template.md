@@ -3,8 +3,7 @@ Este é um repositório de vagas para desenvolvedores do interior de São Paulo,
 vagas para outras localidades serão excluídas.
 
 Não faça distinção de gênero no titulo da vaga e utilize o seguinte padrão:
-
-Exemplo: `[Ribeirão Preto] Python Developer na Acme Corp.`
+[Ribeirão Preto] Python Developer na Acme Corp.
 -->
 
 ## Descrição
