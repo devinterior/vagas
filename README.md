@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://avatars0.githubusercontent.com/u/8793063?v=3&s=200.jpg" alt="DevInterior" width="230">
+</p>
+
 # DevInterior Vagas
 
 Repositório criado exclusivamente para a divulgação de vagas de emprego para desenvolvedores do interior de São Paulo.
