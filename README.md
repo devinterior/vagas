@@ -13,7 +13,7 @@ Conheça as vagas disponíveis em https://github.com/devinterior/vagas/issues
 É simples, abra uma _issue_ e, no título da mesma, insira a descriço da vaga seguida do nome da cidade, conforme o padrão abaixo:
 
 ```
-[Ribeirão Preto] Python Developer na Acme Inc.
+[Ribeirão Preto] Python Developer na Acme Corp.
 ```
 
 Informe o nível de experiência desejado e a forma de contração. É **obrigatório** o nome da empresa contratante.
